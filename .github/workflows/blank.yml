@@ -34,3 +34,4 @@ jobs:
         run: |
           echo This is the date.
           date 
+          cal
