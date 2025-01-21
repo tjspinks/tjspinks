@@ -34,4 +34,5 @@ jobs:
         run: |
           echo This is the date.
           date 
+          apt-get install ncal
           ncal
